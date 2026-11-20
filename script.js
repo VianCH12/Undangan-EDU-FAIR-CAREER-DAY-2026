@@ -245,7 +245,7 @@ function createWhatsAppLink(guest) {
     "Dengan hormat, kami mengundang Anda untuk hadir di Edu Fair & Career Day 2026.",
     `Instansi: ${guest.instansi}`,
     `Kategori undangan: ${guest.kategori}`,
-    `Tanggal: Sabtu, 12 Desember 2026 | 08.00–15.30 WIB`,
+    `Tanggal: Rabu, 25 Desember 2026 | 08.00–15.30 WIB`,
     `Lokasi: SMKN 6 Tangerang Selatan`,
     "",
     `Undangan personal dan konfirmasi kehadiran: ${link}`,
